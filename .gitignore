@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database files (Optional: keep if you want to show your sample data)
+# *.db 
+
+# Local environment files
+.env
+venv/
+env/
