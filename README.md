@@ -1,11 +1,25 @@
 # Python-Portfolio
 Professional-Python-Portfolio
-# 🚀 Python Portfolio 2026
+# 🚀 Python Professional Portfolio
 
-## 🛠️ Main Projects
-- **[Contact Manager](./Full-Stack-Apps/Contact-Management):** SQL-backed GUI application.
-- **[Ludo Engine](./Full-Stack-Apps/Ludo-Game):** Modular OOP game design.
+A comprehensive collection of Python projects focusing on Automation, Full-Stack Desktop Apps, and Logic.
 
-## 🤖 Automation Tools
-- **WhatsApp Bot:** Selenium-based messaging.
-- **Attendance Tracker:** Excel & Email automation.
+## 📂 Directory Structure
+
+### 💻 [Full-Stack Applications](./Full_stack%20Applications)
+- **Contact Management System:** CRUD application with SQLite backend.
+- **Ludo Game Engine:** Modular OOP-based board game.
+
+### 🤖 [Bots & Automation](./Bots%20&%20Automation)
+- **WhatsApp Birthday Bot:** Selenium-based automated messaging.
+- **Attendance System:** Excel database management with SMTP email alerts.
+- **Voice Assistant:** AI-driven assistant with speech-to-text.
+
+### 🛠️ [APIs & Utilities](./APIs%20&%20Utilities)
+- **Weather Update:** Real-time data fetching via REST APIs.
+- **Site Blocker:** Productivity tool using OS-level file manipulation.
+- **Payment Receipt Gen:** Professional PDF generation with ReportLab.
+
+## ⚙️ Setup
+1. Clone the repository.
+2. Install dependencies: `pip install -r requirements.txt`
