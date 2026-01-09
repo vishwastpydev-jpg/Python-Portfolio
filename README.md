@@ -1,4 +1,4 @@
-### 📄 [View My Resume](Resume.pdf)
+### 📄 [View My Resume](Vishwas_Resume.pdf)
 # Python-Portfolio
 Professional-Python-Portfolio
 # 🚀 Python Professional Portfolio
